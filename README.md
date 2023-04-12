@@ -2,8 +2,8 @@
 - I'm a retired RCAF member (I'm a Veteran now) and got into the www.CodingforVeterans.com Program.
 - Since I am computer Geek/enthusiast (hardware side of it) I decided to look into the software side now.
 - 👀 I’m interested in ...: Learning new computer languages.
-- So far, I've learned the basics in Linux, Python, C++, Ruby, Ruby on Rails, Java, Web Fundamentals (HTML, CSS, JavaScript), PHP, MySql, and Software Development Lifecycle Management.
-- 🌱 I’m currently learning ... SecDevOps
+- So far, I've learned the basics in Linux, Python, C++, Ruby, Ruby on Rails, Java, Web Fundamentals (HTML, CSS, JavaScript), PHP, MySql, Software Development Lifecycle Management, and the principles of SecDevOps.
+- 🌱 I’m currently conductibng my final assessment.
 - 💞️ I’m looking to collaborate on ... : This one I'll leave blank since I'm still learning
 - 📫 How to reach me ... email address is stephane.joly1965@gmail.com
 
