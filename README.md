@@ -3,7 +3,7 @@
 - Since I am computer Geek/enthusiast (hardware side of it) I decided to look into the software side now.
 - 👀 I’m interested in ...: Learning new computer languages.
 - So far, I've learned the basics in Linux, Python, C++, Ruby, Ruby on Rails, Java, Web Fundamentals (HTML, CSS, JavaScript), LAMP (Linux, Apache, MySql, and PHP), Software Development Lifecycle Management (CSSLP), and the principles of DevSecOps.
-- 🌱 I’m currently undergoing my final assessment.
+- 🌱 I have completed my training and have a certificate  in "Secure Software Development from uOttawa.
 - 💞️ I’m looking to collaborate on ... : This one I'll leave blank since I'm still learning
 - 📫 How to reach me ... email address is stephane.joly1965@gmail.com
 
