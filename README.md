@@ -5,7 +5,7 @@
 - So far, I've learned the basics in Linux, Python, C++, Ruby, Ruby on Rails, Java, Web Fundamentals (HTML, CSS, JavaScript), LAMP (Linux, Apache, MySql, and PHP), Software Development Lifecycle Management (CSSLP), and the principles of DevSecOps.
 - 🌱 I have completed my training and have a certificate  in "Secure Software Development" from uOttawa (University of Ottawa, Canada).
 - 💞️ I’m looking to collaborate on ... : This one I'll leave blank since I'm still learning
-- I am interested/curious in (not listed in priorities and not complete): AI, LLM, Arduino programming, ESP32 programming, front end Website creation.
+- I am interested/curious in (not listed in priorities and not complete): AI, NLP, LLM, Arduino programming, ESP32 programming, front end Website creation.
 - 📫 How to reach me ... email address is stephane.joly1965@gmail.com
 
 <!---
